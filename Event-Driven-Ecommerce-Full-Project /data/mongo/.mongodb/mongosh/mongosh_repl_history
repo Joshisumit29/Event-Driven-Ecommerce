@@ -1,0 +1,41 @@
+exit
+db.orders.find().pretty()
+show collections
+use ecommerce
+exit
+db.orders.find().pretty()
+show collections
+use test
+db.orders.find().pretty()
+show collections
+use test
+show collections
+use test
+exit
+db.orders.find().pretty()
+db.order.find().pretty()
+show collections
+use test
+exit
+db.orders.find().pretty()
+db.order.find().pretty()
+show collections
+use test
+exit
+show collections
+use test
+exit
+show collections
+show collection
+use test
+exit
+db.orders.find().pretty()
+show collections
+use test
+show dbs
+db.orders.find().pretty()
+use orders
+db.orders.find().pretty()
+show collections
+use orders
+show dbs
