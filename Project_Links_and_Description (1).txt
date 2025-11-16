@@ -1,0 +1,13 @@
+🛍️ Event-Driven E-Commerce System
+Built by: SUMIT JOSHI & RITVIJ JOUTA
+
+GitHub Repository:
+🔗 https://github.com/sukhman814/event-driven-ecommerce
+
+Google Drive ZIP (Full Project):
+🔗 [Paste your Google Drive link here]
+
+Description:
+A full-stack real-time e-commerce order management system built using Node.js, Kafka, MongoDB, Docker, and React. 
+It features microservices for Order, Inventory, Payment, and Shipping — connected through Kafka for event-driven communication.
+The React dashboard provides live order tracking via WebSockets.
